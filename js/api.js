@@ -51,7 +51,7 @@ aLangKeystype['gr']['category-9']='Σνάκ';
 aLangKeystype['gr']['category-10']='Παγωτά/Γλυκά';
 
 //Categories Info
-aLangKeystype['gr']['category-info-1']='1';
+aLangKeystype['gr']['category-info-1']='';
 aLangKeystype['gr']['category-info-2']='';
 aLangKeystype['gr']['category-info-3']='';
 aLangKeystype['gr']['category-info-4']='';
