@@ -296,7 +296,7 @@ ul li {
   left:0;
   height:17.9vh;
   width:100%;
-  background-image:url("../img/product.jpg");
+  background-image:url("../img/coffee.jpeg");
   background-repeat:no-repeat;
   background-position:center center;
   background-size:cover;
@@ -309,7 +309,7 @@ ul li {
 
 .page-container .single-page::before {
 /* never visible - this is used in jQuery to detect if the background image has been loaded  */
-  content:'img/product.jpg';
+  content:'img/coffee.jpeg';
   display:none
 }
 
@@ -319,11 +319,11 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(2)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/soft-drinks.jpeg")
 }
 
 .page-container .single-page:nth-of-type(2)::before {
-  content:'img/product.jpg'
+  content:'img/soft-drinks.jpeg'
 }
 
 .page-container .single-page:nth-of-type(3) {
@@ -332,11 +332,11 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(3)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/beverages.jpeg")
 }
 
 .page-container .single-page:nth-of-type(3)::before {
-  content:'img/product.jpg'
+  content:'img/beverages.jpeg'
 }
 
 .page-container .single-page:nth-of-type(4) {
@@ -346,22 +346,22 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(4)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/juices.jpeg")
 }
 
 .page-container .single-page:nth-of-type(4)::before {
-  content:'img/product.jpg'
+  content:'img/juices.jpeg'
 }
 .page-container .single-page:nth-of-type(5) {
   top:41.8vh;
 }
 
 .page-container .single-page:nth-of-type(5)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/tea.jpeg")
 }
 
 .page-container .single-page:nth-of-type(5)::before {
-  content:'img/product.jpg'
+  content:'img/tea.jpeg'
 }
 
 .page-container .single-page:nth-of-type(6) {
@@ -370,22 +370,22 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(6)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/beer.jpeg")
 }
 
 .page-container .single-page:nth-of-type(6)::before {
-  content:'img/product.jpg'
+  content:'img/beer.jpeg'
 }
 .page-container .single-page:nth-of-type(7) {
   top:59.7vh;
 }
 
 .page-container .single-page:nth-of-type(7)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/wine.jpeg")
 }
 
 .page-container .single-page:nth-of-type(7)::before {
-  content:'img/product.jpg'
+  content:'img/wine.jpeg'
 }
 .page-container .single-page:nth-of-type(8) {
   top:59.7vh;
@@ -393,11 +393,11 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(8)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/drink.jpeg")
 }
 
 .page-container .single-page:nth-of-type(8)::before {
-  content:'img/product.jpg'
+  content:'img/drink.jpeg'
 }
 .page-container .single-page:nth-of-type(9) {
   top:77.6vh;
@@ -405,11 +405,11 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(9)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/snack.jpeg")
 }
 
 .page-container .single-page:nth-of-type(9)::before {
-  content:'img/product.jpg'
+  content:'img/snack.jpeg'
 }
 .page-container .single-page:nth-of-type(10) {
   top:77.6vh;
@@ -417,11 +417,11 @@ ul li {
 }
 
 .page-container .single-page:nth-of-type(10)::after {
-  background-image:url("../img/product.jpg")
+  background-image:url("../img/sweets.jpeg")
 }
 
 .page-container .single-page:nth-of-type(10)::before {
-  content:'img/product.jpg'
+  content:'img/sweets.jpeg'
 }
 
 .page-container .single-page.is-loaded {
